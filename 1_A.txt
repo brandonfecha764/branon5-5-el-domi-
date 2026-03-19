@@ -1,0 +1,7 @@
+numero = int(input("escribe tu numero:  "))
+if numero > 0:
+    print("tu numero es positivo")
+elif numero < 0:
+    print("tu numero es negativo")
+else:
+    print("tu numero es 0")
